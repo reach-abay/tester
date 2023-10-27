@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reach-abay/gitpagetester/static/css/main.073c9b0a.css",
+    "main.js": "/reach-abay/gitpagetester/static/js/main.152de600.js",
+    "static/js/787.26095953.chunk.js": "/reach-abay/gitpagetester/static/js/787.26095953.chunk.js",
+    "static/media/logo.svg": "/reach-abay/gitpagetester/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reach-abay/gitpagetester/index.html",
+    "main.073c9b0a.css.map": "/reach-abay/gitpagetester/static/css/main.073c9b0a.css.map",
+    "main.152de600.js.map": "/reach-abay/gitpagetester/static/js/main.152de600.js.map",
+    "787.26095953.chunk.js.map": "/reach-abay/gitpagetester/static/js/787.26095953.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.152de600.js"
+  ]
+}
